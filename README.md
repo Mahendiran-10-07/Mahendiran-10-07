@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif" alt="Mahendiran M - Developer Banner">
+  <img src="https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif" alt="Mahendiran M - Developer Banner" width = 150px>
 </p>
 
 <div align="center">
@@ -92,18 +92,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mahendiran-10-07&theme=tokyonight" alt="mahendiran-10-07" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahendiran-10-07/Mahendiran-10-07/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Contribution Graph" />
-s</p>
 
-<p align="center">
-  <marquee>
-    <img src="https://github-profile-trophy.vercel.app/?username=mahendiran-10-07&theme=tokyonight" alt="mahendiran-10-07" />
-  </marquee>
-</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahendiran-10-07&label=Profile%20views&color=0e75b6&style=flat" alt="mahendiran-10-07" />
 </p>
+🎮 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg">
+</picture>
 
 <br>
 
