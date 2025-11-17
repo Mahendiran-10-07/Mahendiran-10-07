@@ -4,12 +4,12 @@
 
 <div align="center">
   <a href="https://github.com/Mahendiran-10-07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3182CE&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahendiran+M+👋;A+React+Native+Developer;...and+a+Python+Automation+Specialist;Building+Awesome+Things&effect=scale&v=1" alt="Hi! I'm Mahendiran" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3182CE&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahendiran+👋;A+React+Native+Developer;...and+a+Python+Automation+Specialist;Building+Awesome+Things&effect=scale&v=1" alt="Hi! I'm Mahendiran" />
   </a>
 </div>
 
 <div align="center">
-  <h3>A passionate developer building mobile apps & automating data.</h3>
+  <h3>A passionate developer building mobile apps & webs.</h3>
 </div>
 
 <br>
