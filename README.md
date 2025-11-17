@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="httpshttps://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.png" alt="Mahendiran M - Developer Banner">
+  <img src="https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif" alt="Mahendiran M - Developer Banner">
 </p>
 
 <div align="center">
@@ -62,7 +62,7 @@
         <a href="https://www.python.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
-        <a href="httpshttps://nodejs.org" target="_blank">
+        <a href="https://nodejs.org" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
         <a href="https://expressjs.com" target="_blank">
@@ -83,7 +83,7 @@
         <a href="https://www.w3schools.com/css/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <a href="httpshttps://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         </a>
         <a href="https://reactjs.org/" target="_blank">
@@ -92,7 +92,7 @@
       </p>
       <p align="left">
         <b>Databases & Other Tools</b><br>
-        <a href="httpsIA://www.mongodb.com/" target="_blank">
+        <a href="httpsis://www.mongodb.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </a>
         <a href="https://www.mysql.com/" target="_blank">
@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="httpsax://github-profile-trophy.vercel.app/?username=mahendiran-10-07&theme=tokyonight" alt="mahendiran-10-07" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahendiran-10-07&theme=tokyonight" alt="mahendiran-10-07" />
 </p>
 
 <p align="center">
