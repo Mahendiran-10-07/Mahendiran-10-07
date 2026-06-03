@@ -1,15 +1,26 @@
 <div align="center">
-[![Header](https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif)](https://github.com/Mahendiran-10-07)
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+ <br>
+</div>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3182CE&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahendiran+👋;A+React+Native+Developer;...and+a+Python+Automation+Specialist;Building+Awesome+Things)](https://github.com/Mahendiran-10-07)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi%20I'm%20Mahendiran%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Building%20Awesome%20Things%20%F0%9F%9A%80&descAlignY=65&descSize=22&fontFamily=Pacifico" width="100%" alt="Header" />
+</div>
+<div align="center">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif" width="400" alt="Header" />
+</div>
  
+
 ### A passionate developer building mobile apps & webs.
  
-[![Profile Views](https://komarev.com/ghpvc/?username=mahendiran-10-07&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Mahendiran-10-07)
-[![GitHub followers](https://img.shields.io/github/followers/mahendiran-10-07?label=Followers&style=social)](https://github.com/Mahendiran-10-07?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahendiran0/)
- 
+![Profile Views](https://komarev.com/ghpvc/?username=mahendiran-10-07&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/mahendiran-10-07?label=Followers&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendiran0/)
+
 </div>
+
 ---
  
 ## 🧑‍💻 About Me
@@ -18,95 +29,134 @@
 - 🌱 I'm currently learning **More about containerizing web applications.**
 - 👯 I'm looking to collaborate on **React Native or Python automation projects.**
 - 💬 Ask me about **React Native, Python, and Web Scraping.**
-- 📫 How to reach me: **mahimahi710mahi@gmail.com**
 - ⚡ Fun fact: **I once spent an entire day just picking a font, and my code works best under pressure...😄**
 ---
  
 ## 🚀 Featured Projects
  
-<div align="center">
-| Project | Description | Tech |
-|--------|-------------|------|
-| [💰 Finance Tracker App](https://github.com/Mahendiran-10-07/Finance-Tracker-App) | Personal finance tracker built in React Native. Links expenses to received transactions — great for managing money sent from abroad. | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| [🤖 Excel Parser](https://github.com/Mahendiran-10-07/Excel-Parser) | AI-powered web app that extracts & cleans data from messy Excel sheets, PDFs, and images into structured downloadable files. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
-| [🏫 Campus Utility for SIST](https://github.com/Mahendiran-10-07/Campus-Utility-for-SIST) | Centralized campus app with real-time Lost & Found and peer-to-peer Item Borrowing system built with React + Firebase. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| [✉️ Email Broadcaster](https://github.com/Mahendiran-10-07/EmailBroadcaste) | Full-stack web app that sends custom emails to bulk recipients using an uploaded Excel/CSV contact list. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [💊 EL-EL Pharmacy](https://github.com/Mahendiran-10-07/EL-EL-PHARMACY) | A pharmacy management web application. | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+### 💰 [Finance Tracker App](https://github.com/Mahendiran-10-07/Finance-Tracker-App)
+Personal finance tracker in React Native. Links expenses to received transactions — great for managing money sent from abroad.
  
-</div>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+ 
+### 🤖 [Excel Parser](https://github.com/Mahendiran-10-07/Excel-Parser)
+AI-powered app that extracts & cleans data from messy Excel sheets, PDFs, and images into structured downloadable files.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+ 
+### 🏫 [Campus Utility for SIST](https://github.com/Mahendiran-10-07/Campus-Utility-for-SIST)
+Centralized campus app with real-time Lost & Found and peer-to-peer Item Borrowing using React + Firebase.
+ 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+ 
+
 ---
+
+<div align="center">
  
 ## 🛠️ My Tech Stack
- 
-<div align="center">
+
 **📱 Mobile & Frontend**
- 
-[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactnative.dev/)&nbsp;&nbsp;
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)&nbsp;&nbsp;
-[![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)&nbsp;&nbsp;
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)&nbsp;&nbsp;
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)&nbsp;&nbsp;
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- 
+
+<p align="center">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3DDC84">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  </a>
+</p>
+
+---
+
 **⚙️ Backend & Databases**
- 
-[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)&nbsp;&nbsp;
-[![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com)&nbsp;&nbsp;
-[![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)](https://flask.palletsprojects.com/)&nbsp;&nbsp;
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)&nbsp;&nbsp;
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)&nbsp;&nbsp;
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)&nbsp;&nbsp;
-[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
- 
+
+<p align="center">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=ffffff">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47A248">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
+  </a>
+</p>
+
+<a href="https://expressjs.com">
+  <img src="https://skillicons.dev/icons?i=express" width="65" height="65">
+</a>
+
+---
+
 **🧰 Tools & Automation**
- 
-[![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)&nbsp;&nbsp;
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)&nbsp;&nbsp;
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)
- 
-</div>
+
+<p align="center">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman&svgfill=FF6C37">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=ffffff">
+  </a>
+</p>
+
+<a href="https://www.selenium.dev">
+  <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65">
+</a>
+
 ---
  
 ## 🤝 Connect with Me
  
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahendiran%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendiran0/)
 [![Gmail](https://img.shields.io/badge/Gmail-mahimahi710mahi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahimahi710mahi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Mahendiran--10--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahendiran-10-07)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahi.dev)
  
-</div>
 ---
  
-## 📊 GitHub Stats
  
-<div align="center">
-[![mahendiran-10-07's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendiran-10-07&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Mahendiran-10-07)&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahendiran-10-07&theme=tokyonight)](https://github.com/Mahendiran-10-07)
+## 📈 Contribution Activity
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendiran-10-07&layout=compact&theme=tokyonight)](https://github.com/Mahendiran-10-07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahendiran-10-07&theme=tokyo-night&hide_border=true)](https://github.com/Mahendiran-10-07)
  
-</div>
 ---
  
-## 🏆 GitHub Trophies
  
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahendiran-10-07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Mahendiran-10-07)
+## 💡 A Random Dev Quote
  
-</div>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+ 
 ---
  
-## 🎮 Contribution Graph
- 
-<div align="center">
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg)
- 
-</div>
+*"Code is like humor. When you have to explain it, it's bad."*
+
 ---
- 
-<div align="center">
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
- 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mahi.dev)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
