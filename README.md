@@ -1,116 +1,112 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif" alt="Mahendiran M - Developer Banner" width = 150px>
-</p>
-
 <div align="center">
-  <a href="https://github.com/Mahendiran-10-07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3182CE&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahendiran+👋;A+React+Native+Developer;...and+a+Python+Automation+Specialist;Building+Awesome+Things&effect=scale&v=1" alt="Hi! I'm Mahendiran" />
-  </a>
+[![Header](https://raw.githubusercontent.com/mahendiran-10-07/Mahendiran-10-07/main/header.gif)](https://github.com/Mahendiran-10-07)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3182CE&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahendiran+👋;A+React+Native+Developer;...and+a+Python+Automation+Specialist;Building+Awesome+Things)](https://github.com/Mahendiran-10-07)
+ 
+### A passionate developer building mobile apps & webs.
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=mahendiran-10-07&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Mahendiran-10-07)
+[![GitHub followers](https://img.shields.io/github/followers/mahendiran-10-07?label=Followers&style=social)](https://github.com/Mahendiran-10-07?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahendiran0/)
+ 
 </div>
-
-<div align="center">
-  <h3>A passionate developer building mobile apps & webs.</h3>
-</div>
-
-<br>
-
-- 🔭 I’m currently working on **A personal finance app using React Native.**
-- 🌱 I’m currently learning **More about containerizing web applications.**
-- 👯 I’m looking to collaborate on **React Native or Python automation projects.**
+---
+ 
+## 🧑‍💻 About Me
+ 
+- 🔭 I'm currently working on **A personal finance app using React Native.**
+- 🌱 I'm currently learning **More about containerizing web applications.**
+- 👯 I'm looking to collaborate on **React Native or Python automation projects.**
 - 💬 Ask me about **React Native, Python, and Web Scraping.**
 - 📫 How to reach me: **mahimahi710mahi@gmail.com**
 - ⚡ Fun fact: **I once spent an entire day just picking a font, and my code works best under pressure...😄**
+---
+ 
+## 🚀 Featured Projects
+ 
+<div align="center">
+| Project | Description | Tech |
+|--------|-------------|------|
+| [💰 Finance Tracker App](https://github.com/Mahendiran-10-07/Finance-Tracker-App) | Personal finance tracker built in React Native. Links expenses to received transactions — great for managing money sent from abroad. | ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| [🤖 Excel Parser](https://github.com/Mahendiran-10-07/Excel-Parser) | AI-powered web app that extracts & cleans data from messy Excel sheets, PDFs, and images into structured downloadable files. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
+| [🏫 Campus Utility for SIST](https://github.com/Mahendiran-10-07/Campus-Utility-for-SIST) | Centralized campus app with real-time Lost & Found and peer-to-peer Item Borrowing system built with React + Firebase. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| [✉️ Email Broadcaster](https://github.com/Mahendiran-10-07/EmailBroadcaste) | Full-stack web app that sends custom emails to bulk recipients using an uploaded Excel/CSV contact list. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [💊 EL-EL Pharmacy](https://github.com/Mahendiran-10-07/EL-EL-PHARMACY) | A pharmacy management web application. | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+ 
+</div>
+---
+ 
+## 🛠️ My Tech Stack
+ 
+<div align="center">
+**📱 Mobile & Frontend**
+ 
+[![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactnative.dev/)&nbsp;&nbsp;
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)&nbsp;&nbsp;
+[![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)&nbsp;&nbsp;
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)&nbsp;&nbsp;
+[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)&nbsp;&nbsp;
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ 
+**⚙️ Backend & Databases**
+ 
+[![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)&nbsp;&nbsp;
+[![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)](https://expressjs.com)&nbsp;&nbsp;
+[![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)](https://flask.palletsprojects.com/)&nbsp;&nbsp;
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)&nbsp;&nbsp;
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)&nbsp;&nbsp;
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)&nbsp;&nbsp;
+[![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com/)
+ 
+**🧰 Tools & Automation**
+ 
+[![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)&nbsp;&nbsp;
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)&nbsp;&nbsp;
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)
+ 
+</div>
+---
+ 
+## 🤝 Connect with Me
+ 
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahendiran%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendiran0/)
+[![Gmail](https://img.shields.io/badge/Gmail-mahimahi710mahi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahimahi710mahi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mahendiran--10--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahendiran-10-07)
+ 
+</div>
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+[![mahendiran-10-07's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendiran-10-07&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Mahendiran-10-07)&nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahendiran-10-07&theme=tokyonight)](https://github.com/Mahendiran-10-07)
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahendiran-10-07&layout=compact&theme=tokyonight)](https://github.com/Mahendiran-10-07)
+ 
+</div>
+---
+ 
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahendiran-10-07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Mahendiran-10-07)
+ 
+</div>
+---
+ 
+## 🎮 Contribution Graph
+ 
+<div align="center">
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg)
+ 
+</div>
+---
+ 
+<div align="center">
+### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+ 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mahi.dev)
 
-<br>
-
-<h3 align="left">🤝 Connect with Me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahendiran0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahendiran M" height="30" width="40" />
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">🛠️ My Tech Stack</h3>
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="httpshttps://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
-<br>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahendiran-10-07&show_icons=true&locale=en&theme=tokyonight" alt="mahendiran-10-07" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahendiran-10-07&theme=tokyonight" alt="mahendiran-10-07" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendiran-10-07&label=Profile%20views&color=0e75b6&style=flat" alt="mahendiran-10-07" />
-</p>
-🎮 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph.svg">
-</picture>
-
-<br>
-
-<p align="center">
-  <br>
-  <a href="https://buymeacoffee.com/mahi.dev" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
-  </a>
-</p>
+</div>
